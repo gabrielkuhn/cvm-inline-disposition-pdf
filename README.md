@@ -1,0 +1,2 @@
+## O que é?
+Extensão do chrome que altera os headers de resposta `Content-Disposition` e `Content-Type` dos documentos disponibilizados no Enet da CVM para que os mesmos possam ser renderizados diratamente pelo browser, sem a necessidade de download.

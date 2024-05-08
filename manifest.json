@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CVM Inline Disposition PDF",
+  "version": "1.0",
+  "author": "Gabriel Kuhn",
+  "description": "",
+  "permissions": ["declarativeNetRequest"],
+  "host_permissions": ["https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "minimum_chrome_version": "101"
+}
